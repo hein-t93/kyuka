@@ -11,7 +11,7 @@ title: 慶應大学病院放射線科勤務
 * [勤務表](https://www.dropbox.com/s/hg4fywdx3k3ikom/duty.pdf?dl=0)
 * [休暇予定カレンダー](http://rad.med.keio.ac.jp/hokokai/schedule/)
 * [新規休暇申請](./NewHoliday.md)
-* [休暇取り消し]()
+* [休暇取り消し](./modHoliday.md)
 
 # お問い合わせ
 詳しい人に電話してください。
