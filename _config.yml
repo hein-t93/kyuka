@@ -4,4 +4,4 @@ plugins:
   - jekyll-github-metadata
 # ---- fixed github metadata authentication bug ----
 github : [metadata]
-repository: hein-t93/kyuuka
+repository: hein-t93/kyuka
