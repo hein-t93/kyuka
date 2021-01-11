@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOP2
+title: 慶應病院放射線科勤怠システム
 author: Ryo Takeshita
 ---
 
