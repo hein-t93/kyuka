@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 encding: utf-8
 plugins: 
   - jekyll-github-metadata
