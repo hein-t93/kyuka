@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOP
+title: TOP2
 author: Ryo Takeshita
 ---
 
